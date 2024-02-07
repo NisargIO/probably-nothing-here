@@ -13,12 +13,12 @@ this should take <5 min to setup :)
 clone this repo onto your local machine:
 
 ```bash
-git clone https://github.com/aidenybai/probably-nothing-here.git
+git clone https://github.com/NisargIO/probably-nothing-here.git
 ```
 
 ## 1. install vscode extension
 
-you should now have a file called [`million-lint-0.0.x.vsix`](./million-lint-0.0.1.vsix). install that onto your vscode by dragging it into your extensions sidebar tab (<kbd>Cmd ⌘ + Shift ⇧ + X</kbd>)
+i should have sent you a file called million-lint-0.0.x.vsix. install that onto your vscode by dragging it into your extensions sidebar tab (<kbd>Cmd ⌘ + Shift ⇧ + X</kbd>)
 
 <img src="./assets/installing-extension.gif" width="450" />
 
