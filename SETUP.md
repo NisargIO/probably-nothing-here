@@ -2,7 +2,7 @@
 
 > [!WARNING]
 >
-> _(experimental, pls do not share)_
+> _(experimental, pls do not share)_ → [Discord](https://discord.gg/afZsBnMPPZ) 
 
 hi! this is a super secret project we've been working on. it's a React linter for performance that helps you find rerender issues + explains why they're happening.
 
